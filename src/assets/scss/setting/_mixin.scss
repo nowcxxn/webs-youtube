@@ -1,4 +1,24 @@
-body {
-  background-color: var(--black);
-  color: var(--white);
+// 한 줄 효과
+@mixin line-one {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+// 두 줄 효과
+@mixin line-two {
+  overflow: hidden;
+  text-overflow: ellipsis; // ...으로 바꿔줌
+  display: -webkit-box;
+  -webkit-line-clamp: 2; // 두 줄
+  -webkit-box-orient: vertical;
+}
+
+// 두 줄 이상
+@mixin line($num) {
+  overflow: hidden;
+  text-overflow: ellipsis; // ...으로 바꿔줌
+  display: -webkit-box;
+  -webkit-line-clamp: $num; // 두 줄
+  -webkit-box-orient: vertical;
 }
