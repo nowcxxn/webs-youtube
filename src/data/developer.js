@@ -1,12 +1,12 @@
 export const developerText = [
   {
-    img: 'https://yt3.googleusercontent.com/JU6k565OVstxx_h_7TbzE1aNXKzcxKl33zjPV4p649pqsgS7E3vb0meX9DB1_D_KviDoc4xM=s176-c-k-c0x00ffffff-no-rj',
+    img: 'https://yt3.googleusercontent.com/k_aSDba9wNAWsAEZPY95LLLQoMAjh_gtw6pWWyYvy3y3006-AsLB8rGqTb_sBfWrs1YXDCj6=s900-c-k-c0x00ffffff-no-rj',
     name: 'webstoryboy',
     channelAddress: 'https://www.youtube.com/@webstoryboy',
     channelId: 'UCsvQSv7EeCMHyYb9ENKAJZw',
   },
   {
-    img: 'https://yt3.googleusercontent.com/JuRcVt9OFQgqh7UL1LjihpVLEbjdNXt3tGq-IQfqRMT8wVXgWg_tzyz0S_GVsgqkB3ucBC5fqeY=s176-c-k-c0x00ffffff-no-rj',
+    img: 'https://yt3.googleusercontent.com/6gJoxwN9IQ3SlQIo1SibzhmwNLfxhX3t15zfQAGMxmV3Fi7aALzNayf2CzqhL5U6c2f4123G=s900-c-k-c0x00ffffff-no-rj',
     name: '조코딩 JoCoding',
     channelAddress: 'https://www.youtube.com/@jocoding',
     channelId: 'UCQNE2JmbasNYbjGAcuBiRRg',
@@ -42,7 +42,7 @@ export const developerText = [
     channelId: 'UC2nkWbaJt1KQDi2r2XclzTQ',
   },
   {
-    img: 'https://yt3.googleusercontent.com/oLi5jJ2AKs_aYpR9UpUpu052M84WIE2j9cpnNb1VnpBHZMHVrTRPwrUIncJGu6--PVR-x-22=s176-c-k-c0x00ffffff-no-rj',
+    img: 'https://yt3.googleusercontent.com/-uLq1lI1er_M8AM8ghMZnv6djtfif2kog6aOqXnO4D6SQpaI3oMJmb_OJwKsTVqwgiYnVEPPOs8=s900-c-k-c0x00ffffff-no-rj',
     name: '개발하는 정대리',
     channelAddress: 'https://www.youtube.com/@dev_jeongdaeri',
     channelId: 'UCutO2H_AVmWHbzvE92rpxjA',
@@ -96,13 +96,13 @@ export const developerText = [
     channelId: 'UCZ30aWiMw5C8mGcESlAGQbA',
   },
   {
-    img: 'https://yt3.googleusercontent.com/PVbwh8OLmp3dTofJ7vmv6zfoRKiFgIvL9SsTYaermGxW3Ga6vONSfC7ymrgpO6gUCd9nKcZp0Sc=s176-c-k-c0x00ffffff-no-rj',
+    img: 'https://yt3.googleusercontent.com/DSggIhy54EmSQdEuLYgJE0pcnGzFUuOMSa-o-7MqPNk4Wv5ox95soWHaCHjYmhvQ-Ns9P7gLxw=s900-c-k-c0x00ffffff-no-rj',
     name: '프롱트',
     channelAddress: 'https://www.youtube.com/@frongt',
     channelId: 'UCku8mOp8y05Cm6sb9Rp0jMQ',
   },
   {
-    img: 'https://yt3.googleusercontent.com/1gLFRSPxZUYjlGG-Ap7B2bymZkdp4fFuSTAntouex6mdUQUZ2lA8kWMrzKOLHAdfkzjopcntU7E=s176-c-k-c0x00ffffff-no-rj',
+    img: 'https://yt3.googleusercontent.com/TAd4mSVptqEaIrFw3zVrOHXIQTHw5jROLwivGD_THhPeZST97J0b4duFjnL_dBNWYsDZgANsMg=s900-c-k-c0x00ffffff-no-rj',
     name: '프로그래머 김플 스튜디오',
     channelAddress: 'https://www.youtube.com/@kimfl',
     channelId: 'UCdNSo3yB5-FRTFGbUNKNnwQ',
@@ -156,7 +156,7 @@ export const developerText = [
     channelId: 'UCkXqOdpo5ul8BosGBFlDgmw',
   },
   {
-    img: 'https://yt3.googleusercontent.com/O8iON5EAVx6HVKyOV5UMreLFI_0D3mJX373vTEGoNcVRpNP7Lq8swha7BSLWTiEWlZaF7a4ENW8=s176-c-k-c0x00ffffff-no-rj',
+    img: 'https://yt3.googleusercontent.com/kub0rXGIpWKXcfe9F_jQmutFzojSZWR7TA2GneW2dbnefqUEVC7msiDdZFuAsGM22Le3Vv-2=s900-c-k-c0x00ffffff-no-rj',
     name: 'Code With Antonio',
     channelAddress: 'https://www.youtube.com/@codewithantonio',
     channelId: 'UCW_4e6sUTMWHxlF06aErH9w',
@@ -174,13 +174,7 @@ export const developerText = [
     channelId: 'UCvx57s_ZBt5VG4fvlStiq2g',
   },
   {
-    img: 'https://yt3.googleusercontent.com/wr8dNnJ8dSHjBsHKag3O6ZCKmxJvnxqhpPi-E6sWf83JYKxnevU2iSt3FzLxjzrZOCTRpbi53mg=s176-c-k-c0x00ffffff-no-rj',
-    name: '코딩카페1',
-    channelAddress: 'https://www.youtube.com/@CodingCafe1',
-    channelId: 'UCt76J5CYnXL-uoJmQPG2Azw',
-  },
-  {
-    img: 'https://yt3.googleusercontent.com/AVa5OPep1y0E8bZMIyLDyzg1jTwApHaSCi2RUG0epuLFZe0e80yvYo7MNHd-ApnvOtDgT3A3=s176-c-k-c0x00ffffff-no-rj',
+    img: 'https://yt3.googleusercontent.com/wutCDcUghdc0-FNw9diFFrmL2TqsihAW9jRE0c07z9ehpir_Ml4crS91E_WGqoGkA9FRQMY9DA=s900-c-k-c0x00ffffff-no-rj',
     name: 'Codegrid',
     channelAddress: 'https://www.youtube.com/@codegrid',
     channelId: 'UC7pVho4O31FyfQsZdXWejEw',
